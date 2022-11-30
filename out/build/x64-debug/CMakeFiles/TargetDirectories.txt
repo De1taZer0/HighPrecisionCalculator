@@ -1,0 +1,4 @@
+C:/Users/12166/source/repos/Calculator/out/build/x64-debug/CMakeFiles/Calculator.dir
+C:/Users/12166/source/repos/Calculator/out/build/x64-debug/CMakeFiles/HighPrecisionCalculator.dir
+C:/Users/12166/source/repos/Calculator/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/12166/source/repos/Calculator/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

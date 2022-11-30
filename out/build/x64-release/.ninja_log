@@ -1,0 +1,10 @@
+# ninja log v5
+1049	1090	6915216403137541	Calculator.lib	9a15ba771cea8c30
+4	761	6915216399907343	CMakeFiles/HighPrecisionCalculator.dir/main/main.cc.obj	43090c291ac4f0f4
+1	8	0	clean	8c45b54705a541e8
+1090	1484	6915216407131248	HighPrecisionCalculator.exe	6388a31ab6475b44
+1	1049	6915216402754838	CMakeFiles/Calculator.dir/src/HighPrecision.cc.obj	249a993d98f19f67
+4	785	6915218766923507	CMakeFiles/HighPrecisionCalculator.dir/main/main.cc.obj	43090c291ac4f0f4
+1	1095	6915218770020609	CMakeFiles/Calculator.dir/src/HighPrecision.cc.obj	249a993d98f19f67
+1096	1126	6915218770354411	Calculator.lib	9a15ba771cea8c30
+1127	1537	6915218774434139	HighPrecisionCalculator.exe	6388a31ab6475b44
